@@ -28,6 +28,7 @@ Subset of ELAsTiCC dataset:
 
 - SVM was trained using a subsample due to computational limitations
 - Random Forest was trained on the full dataset
+- The dataset is not included due to its size.
 
 ## Author
 
